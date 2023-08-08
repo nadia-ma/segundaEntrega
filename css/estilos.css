@@ -23,16 +23,6 @@ header .logo{
     padding: 20px 0 20px 0;
 }
 
-/*div{  
-    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 0;
-    padding: 10px 20px 10px 20px;
-}*/
-
 div nav .identificacion li{
     display: inline-block;
 }
@@ -223,14 +213,3 @@ footer img{
     text-decoration: none;
     color: darkslateblue;
 }
-
-
-/*
-.boton{
-    background-image: none;
-    margin: 15px auto;
-    padding: 10px 30px;
-    border-radius: 50px;
-    justify-content: center;
-}*/
-
